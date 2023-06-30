@@ -13,9 +13,7 @@ pipeline{
             }
 
         }
-    }
 
-    stages{
         stage("Checkout from SCM"){
             steps {
                 git branch: 'main', credentialsId: 'github', url: 'https://github.com/huyhuy8122001/Production-E2E-Pipeline'
