@@ -1,0 +1,5 @@
+docker access token: dckr_pat_fijp0ueEkqMrQ7rIbKvtalcGYWU
+
+argocd pass: JLodWOFIX8yGzKbM
+
+JENKINS_API_TOKEN: 1178a8fa23e72656fdf3f44ba976bdafad
