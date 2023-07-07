@@ -16,7 +16,7 @@ pipeline{
         JENKINS_API_TOKEN = credentials('JENKINS_API_TOKEN')
     }
     stages{
-        stage("Cleanup Workspace"){
+        stage("Cleanup Workspaceee"){
             steps {
                 cleanWs()
             }
